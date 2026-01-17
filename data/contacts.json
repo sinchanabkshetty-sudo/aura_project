@@ -1,0 +1,26 @@
+{
+    "shravya": {
+        "phone": "+91 77364 07179",
+        "email": "shravya@example.com"
+    },
+    "amma": {
+        "phone": "+919876543210",
+        "email": "amma@gmail.com"
+    },
+    "dad": {
+        "phone": "+919876543211",
+        "email": "dad@gmail.com"
+    },
+    "sinchana": {
+        "phone": "+919876543212",
+        "email": "sinchana@gmail.com"
+    },
+    "kushi": {
+        "phone": "+919876543213",
+        "email": "kushi@gmail.com"
+    },
+    "mom": {
+        "phone": "+919876543210",
+        "email": "amma@gmail.com"
+    }
+}

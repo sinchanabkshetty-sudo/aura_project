@@ -1,0 +1,1447 @@
+{
+  "administrative tools": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk",
+    "display": "Administrative Tools"
+  },
+  "canva": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Canva.lnk",
+    "display": "Canva"
+  },
+  "file explorer": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
+    "display": "File Explorer"
+  },
+  "opera browser": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Opera Browser.lnk",
+    "display": "Opera Browser"
+  },
+  "livecaptions": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\LiveCaptions.lnk",
+    "display": "LiveCaptions"
+  },
+  "magnify": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+    "display": "Magnify"
+  },
+  "narrator": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+    "display": "Narrator"
+  },
+  "on-screen keyboard": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+    "display": "On-Screen Keyboard"
+  },
+  "voiceaccess": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\VoiceAccess.lnk",
+    "display": "VoiceAccess"
+  },
+  "idle (python 3.13 64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\IDLE (Python 3.13 64-bit).lnk",
+    "display": "IDLE (Python 3.13 64-bit)"
+  },
+  "python 3.13 (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 (64-bit).lnk",
+    "display": "Python 3.13 (64-bit)"
+  },
+  "python 3.13 manuals (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Manuals (64-bit).lnk",
+    "display": "Python 3.13 Manuals (64-bit)"
+  },
+  "python 3.13 module docs (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.13\\Python 3.13 Module Docs (64-bit).lnk",
+    "display": "Python 3.13 Module Docs (64-bit)"
+  },
+  "send to onenote": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Send to OneNote.lnk",
+    "display": "Send to OneNote"
+  },
+  "command prompt": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+    "display": "Command Prompt"
+  },
+  "control panel": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+    "display": "Control Panel"
+  },
+  "run": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+    "display": "Run"
+  },
+  "gedit (ubuntu)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubuntu\\gedit (Ubuntu).lnk",
+    "display": "gedit (Ubuntu)"
+  },
+  "visual studio code": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "display": "Visual Studio Code"
+  },
+  "windows powershell (x86)": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+    "display": "Windows PowerShell (x86)"
+  },
+  "windows powershell": {
+    "kind": "lnk",
+    "path": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+    "display": "Windows PowerShell"
+  },
+  "avast free antivirus": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Avast Free Antivirus.lnk",
+    "display": "Avast Free Antivirus"
+  },
+  "db browser (sqlcipher)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DB Browser (SQLCipher).lnk",
+    "display": "DB Browser (SQLCipher)"
+  },
+  "db browser (sqlite)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DB Browser (SQLite).lnk",
+    "display": "DB Browser (SQLite)"
+  },
+  "microsoft excel": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+    "display": "Excel"
+  },
+  "google chrome": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+    "display": "Google Chrome"
+  },
+  "microsoft edge": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+    "display": "Microsoft Edge"
+  },
+  "microsoft web platform installer": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Web Platform Installer.lnk",
+    "display": "Microsoft Web Platform Installer"
+  },
+  "notepad++": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Notepad++.lnk",
+    "display": "Notepad++"
+  },
+  "onedrive": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
+    "display": "OneDrive"
+  },
+  "onenote": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
+    "display": "OneNote"
+  },
+  "powerpoint": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+    "display": "PowerPoint"
+  },
+  "sticky notes (new)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sticky Notes (new).lnk",
+    "display": "Sticky Notes (new)"
+  },
+  "microsoft word": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+    "display": "Word"
+  },
+  "wsl settings": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WSL Settings.lnk",
+    "display": "WSL Settings"
+  },
+  "wsl": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WSL.lnk",
+    "display": "WSL"
+  },
+  "remote desktop connection": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+    "display": "Remote Desktop Connection"
+  },
+  "steps recorder": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
+    "display": "Steps Recorder"
+  },
+  "windows fax and scan": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
+    "display": "Windows Fax and Scan"
+  },
+  "windows media player legacy": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player Legacy.lnk",
+    "display": "Windows Media Player Legacy"
+  },
+  "character map": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+    "display": "Character Map"
+  },
+  "component services": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+    "display": "Component Services"
+  },
+  "computer management": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+    "display": "Computer Management"
+  },
+  "dfrgui": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+    "display": "dfrgui"
+  },
+  "disk cleanup": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+    "display": "Disk Cleanup"
+  },
+  "event viewer": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+    "display": "Event Viewer"
+  },
+  "iscsi initiator": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+    "display": "iSCSI Initiator"
+  },
+  "memory diagnostics tool": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+    "display": "Memory Diagnostics Tool"
+  },
+  "odbc data sources (32-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+    "display": "ODBC Data Sources (32-bit)"
+  },
+  "odbc data sources (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+    "display": "ODBC Data Sources (64-bit)"
+  },
+  "performance monitor": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+    "display": "Performance Monitor"
+  },
+  "recoverydrive": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+    "display": "RecoveryDrive"
+  },
+  "registry editor": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+    "display": "Registry Editor"
+  },
+  "resource monitor": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+    "display": "Resource Monitor"
+  },
+  "services": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+    "display": "services"
+  },
+  "system configuration": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+    "display": "System Configuration"
+  },
+  "system information": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+    "display": "System Information"
+  },
+  "task scheduler": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+    "display": "Task Scheduler"
+  },
+  "windows defender firewall with advanced security": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+    "display": "Windows Defender Firewall with Advanced Security"
+  },
+  "apache netbeans ide 21": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Apache NetBeans\\Apache NetBeans IDE 21.lnk",
+    "display": "Apache NetBeans IDE 21"
+  },
+  "azure data studio": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Azure Data Studio\\Azure Data Studio.lnk",
+    "display": "Azure Data Studio"
+  },
+  "dosbox 0.74-3 manual": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\DOSBox 0.74-3 Manual.lnk",
+    "display": "DOSBox 0.74-3 Manual"
+  },
+  "dosbox 0.74-3": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\DOSBox 0.74-3.lnk",
+    "display": "DOSBox 0.74-3"
+  },
+  "dosbox 0.74-3 (noconsole)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\DOSBox 0.74-3 (noconsole).lnk",
+    "display": "DOSBox 0.74-3 (noconsole)"
+  },
+  "screenshots & recordings": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Screenshots & Recordings.lnk",
+    "display": "Screenshots & Recordings"
+  },
+  "uninstall": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Uninstall.lnk",
+    "display": "Uninstall"
+  },
+  "install movie codec": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video\\Install movie codec.lnk",
+    "display": "Install movie codec"
+  },
+  "video instructions": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Extras\\Video\\Video instructions.lnk",
+    "display": "Video instructions"
+  },
+  "dosbox 0.74-3 options": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Options\\DOSBox 0.74-3 Options.lnk",
+    "display": "DOSBox 0.74-3 Options"
+  },
+  "reset keymapper": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Options\\Reset KeyMapper.lnk",
+    "display": "Reset KeyMapper"
+  },
+  "reset options": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\DOSBox-0.74-3\\Options\\Reset Options.lnk",
+    "display": "Reset Options"
+  },
+  "git bash": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
+    "display": "Git Bash"
+  },
+  "git cmd": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
+    "display": "Git CMD"
+  },
+  "git gui": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
+    "display": "Git GUI"
+  },
+  "git release notes": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk",
+    "display": "Git Release Notes"
+  },
+  "pycharm 2023.1.1": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm 2023.1.1.lnk",
+    "display": "PyCharm 2023.1.1"
+  },
+  "pycharm 2023.1.2": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm 2023.1.2.lnk",
+    "display": "PyCharm 2023.1.2"
+  },
+  "pycharm community edition 2023.1.2": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\PyCharm Community Edition 2023.1.2.lnk",
+    "display": "PyCharm Community Edition 2023.1.2"
+  },
+  "mcafee livesafe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\McAfee\\McAfee LiveSafe.lnk",
+    "display": "McAfee LiveSafe"
+  },
+  "office language preferences": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
+    "display": "Office Language Preferences"
+  },
+  "microsoft silverlight": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Silverlight\\Microsoft Silverlight.lnk",
+    "display": "Microsoft Silverlight"
+  },
+  "welcome": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Silverlight 4 SDK\\Welcome.lnk",
+    "display": "Welcome"
+  },
+  "sql server 2019 import and export data (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft SQL Server 2019\\SQL Server 2019 Import and Export Data (64-bit).lnk",
+    "display": "SQL Server 2019 Import and Export Data (64-bit)"
+  },
+  "sql server 2019 error and usage reporting": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft SQL Server 2019\\Configuration Tools\\SQL Server 2019 Error and Usage Reporting.lnk",
+    "display": "SQL Server 2019 Error and Usage Reporting"
+  },
+  "sql server 2019 installation center (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft SQL Server 2019\\Configuration Tools\\SQL Server 2019 Installation Center (64-bit).lnk",
+    "display": "SQL Server 2019 Installation Center (64-bit)"
+  },
+  "blend for visual studio 2012": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Blend for Visual Studio 2012.lnk",
+    "display": "Blend for Visual Studio 2012"
+  },
+  "microsoft help viewer": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Microsoft Help Viewer.lnk",
+    "display": "Microsoft Help Viewer"
+  },
+  "visual studio 2012": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio 2012.lnk",
+    "display": "Visual Studio 2012"
+  },
+  "build notifications": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Team Foundation Server Tools\\Build Notifications.lnk",
+    "display": "Build Notifications"
+  },
+  "debuggable package manager": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Debuggable Package Manager.lnk",
+    "display": "Debuggable Package Manager"
+  },
+  "developer command prompt for vs2012": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Developer Command Prompt for VS2012.lnk",
+    "display": "Developer Command Prompt for VS2012"
+  },
+  "dotfuscator and analytics": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Dotfuscator and Analytics.lnk",
+    "display": "Dotfuscator and Analytics"
+  },
+  "mfc-atl trace tool": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\MFC-ATL Trace Tool.lnk",
+    "display": "MFC-ATL Trace Tool"
+  },
+  "remote debugger folder": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Remote Debugger Folder.lnk",
+    "display": "Remote Debugger Folder"
+  },
+  "spy++ (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Spy++ (64-bit).lnk",
+    "display": "Spy++ (64-bit)"
+  },
+  "spy++": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\Spy++.lnk",
+    "display": "Spy++"
+  },
+  "vs2012 arm cross tools command prompt": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\VS2012 ARM Cross Tools Command Prompt.lnk",
+    "display": "VS2012 ARM Cross Tools Command Prompt"
+  },
+  "vs2012 x64 cross tools command prompt": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\VS2012 x64 Cross Tools Command Prompt.lnk",
+    "display": "VS2012 x64 Cross Tools Command Prompt"
+  },
+  "vs2012 x64 native tools command prompt": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\VS2012 x64 Native Tools Command Prompt.lnk",
+    "display": "VS2012 x64 Native Tools Command Prompt"
+  },
+  "vs2012 x86 native tools command prompt": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Visual Studio 2012\\Visual Studio Tools\\VS2012 x86 Native Tools Command Prompt.lnk",
+    "display": "VS2012 x86 Native Tools Command Prompt"
+  },
+  "mysql shell": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Shell.lnk",
+    "display": "MySQL Shell"
+  },
+  "mysql workbench 8.0 ce": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Workbench 8.0 CE.lnk",
+    "display": "MySQL Workbench 8.0 CE"
+  },
+  "mysql installer - community": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Installer - Community\\MySQL Installer - Community.lnk",
+    "display": "MySQL Installer - Community"
+  },
+  "mysql 8.0 command line client - unicode": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0\\MySQL 8.0 Command Line Client - Unicode.lnk",
+    "display": "MySQL 8.0 Command Line Client - Unicode"
+  },
+  "mysql 8.0 command line client": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0\\MySQL 8.0 Command Line Client.lnk",
+    "display": "MySQL 8.0 Command Line Client"
+  },
+  "backup database": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Backup Database.lnk",
+    "display": "Backup Database"
+  },
+  "get started": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Get Started.lnk",
+    "display": "Get Started"
+  },
+  "restore database": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Restore Database.lnk",
+    "display": "Restore Database"
+  },
+  "run sql command line": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Run SQL Command Line.lnk",
+    "display": "Run SQL Command Line"
+  },
+  "start database": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Start Database.lnk",
+    "display": "Start Database"
+  },
+  "stop database": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Stop Database.lnk",
+    "display": "Stop Database"
+  },
+  "go to online forum": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Get Help\\Go To Online Forum.lnk",
+    "display": "Go To Online Forum"
+  },
+  "read documentation": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Get Help\\Read Documentation.lnk",
+    "display": "Read Documentation"
+  },
+  "register for online forum": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle Database 11g Express Edition\\Get Help\\Register For Online Forum.lnk",
+    "display": "Register For Online Forum"
+  },
+  "idle (python 3.11 64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\IDLE (Python 3.11 64-bit).lnk",
+    "display": "IDLE (Python 3.11 64-bit)"
+  },
+  "python 3.11 (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 (64-bit).lnk",
+    "display": "Python 3.11 (64-bit)"
+  },
+  "python 3.11 manuals (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Manuals (64-bit).lnk",
+    "display": "Python 3.11 Manuals (64-bit)"
+  },
+  "python 3.11 module docs (64-bit)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Module Docs (64-bit).lnk",
+    "display": "Python 3.11 Module Docs (64-bit)"
+  },
+  "r 4.3.1": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\R\\R 4.3.1.lnk",
+    "display": "R 4.3.1"
+  },
+  "remote mouse": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Remote Mouse\\Remote Mouse.lnk",
+    "display": "Remote Mouse"
+  },
+  "uninstall remote mouse": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Remote Mouse\\Uninstall Remote Mouse.lnk",
+    "display": "Uninstall Remote Mouse"
+  },
+  "rstudio": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\RStudio\\RStudio.lnk",
+    "display": "RStudio"
+  },
+  "task manager": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+    "display": "Task Manager"
+  },
+  "launch 1hello.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch 1HELLO.EXE.lnk",
+    "display": "Launch 1HELLO.EXE"
+  },
+  "launch bgiobj.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch BGIOBJ.EXE.lnk",
+    "display": "Launch BGIOBJ.EXE"
+  },
+  "launch cpp.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch CPP.EXE.lnk",
+    "display": "Launch CPP.EXE"
+  },
+  "launch dimnd.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DIMND.EXE.lnk",
+    "display": "Launch DIMND.EXE"
+  },
+  "launch dosbox.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DOSBox.exe.lnk",
+    "display": "Launch DOSBox.exe"
+  },
+  "launch dpmiinst.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMIINST.EXE.lnk",
+    "display": "Launch DPMIINST.EXE"
+  },
+  "launch dpmiload.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMILOAD.EXE.lnk",
+    "display": "Launch DPMILOAD.EXE"
+  },
+  "launch dpmires.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMIRES.EXE.lnk",
+    "display": "Launch DPMIRES.EXE"
+  },
+  "launch ex1.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch EX1.EXE.lnk",
+    "display": "Launch EX1.EXE"
+  },
+  "launch grep2msg.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch GREP2MSG.EXE.lnk",
+    "display": "Launch GREP2MSG.EXE"
+  },
+  "launch make.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch MAKE.EXE.lnk",
+    "display": "Launch MAKE.EXE"
+  },
+  "launch maker.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch MAKER.EXE.lnk",
+    "display": "Launch MAKER.EXE"
+  },
+  "launch noname00.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch NONAME00.EXE.lnk",
+    "display": "Launch NONAME00.EXE"
+  },
+  "launch prj2mak.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJ2MAK.EXE.lnk",
+    "display": "Launch PRJ2MAK.EXE"
+  },
+  "launch prjcfg.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJCFG.EXE.lnk",
+    "display": "Launch PRJCFG.EXE"
+  },
+  "launch prjcnvt.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJCNVT.EXE.lnk",
+    "display": "Launch PRJCNVT.EXE"
+  },
+  "launch tasm2msg.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TASM2MSG.EXE.lnk",
+    "display": "Launch TASM2MSG.EXE"
+  },
+  "launch tc.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TC.EXE.lnk",
+    "display": "Launch TC.EXE"
+  },
+  "launch tcc.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TCC.EXE.lnk",
+    "display": "Launch TCC.EXE"
+  },
+  "launch tdump.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TDUMP.EXE.lnk",
+    "display": "Launch TDUMP.EXE"
+  },
+  "launch temc.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TEMC.EXE.lnk",
+    "display": "Launch TEMC.EXE"
+  },
+  "launch tlib.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TLIB.EXE.lnk",
+    "display": "Launch TLIB.EXE"
+  },
+  "launch tlink.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TLINK.EXE.lnk",
+    "display": "Launch TLINK.EXE"
+  },
+  "launch trancopy.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TRANCOPY.EXE.lnk",
+    "display": "Launch TRANCOPY.EXE"
+  },
+  "launch trigraph.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TRIGRAPH.EXE.lnk",
+    "display": "Launch TRIGRAPH.EXE"
+  },
+  "launch uninstall.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch uninstall.exe.lnk",
+    "display": "Launch uninstall.exe"
+  },
+  "launch unzip.exe": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch UNZIP.EXE.lnk",
+    "display": "Launch UNZIP.EXE"
+  },
+  "turbo c++": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Turbo C++.lnk",
+    "display": "Turbo C++"
+  },
+  "uninstall turbo c++ 3.2": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Uninstall Turbo C++ 3.2.lnk",
+    "display": "Uninstall Turbo C++ 3.2"
+  },
+  "windows app cert kit": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows App Certification Kit\\Windows App Cert Kit.lnk",
+    "display": "Windows App Cert Kit"
+  },
+  "windows performance analyzer": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Analyzer.lnk",
+    "display": "Windows Performance Analyzer"
+  },
+  "documentation for desktop apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Desktop Apps.lnk",
+    "display": "Documentation for Desktop Apps"
+  },
+  "documentation for windows store apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Windows Store Apps.lnk",
+    "display": "Documentation for Windows Store Apps"
+  },
+  "samples for desktop apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Desktop Apps.lnk",
+    "display": "Samples for Desktop Apps"
+  },
+  "samples for windows store apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Windows Store Apps.lnk",
+    "display": "Samples for Windows Store Apps"
+  },
+  "tools for desktop apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Desktop Apps.lnk",
+    "display": "Tools for Desktop Apps"
+  },
+  "tools for windows store apps": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Windows Store Apps.lnk",
+    "display": "Tools for Windows Store Apps"
+  },
+  "windows software development kit": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk",
+    "display": "Windows Software Development Kit"
+  },
+  "windows powershell ise (x86)": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+    "display": "Windows PowerShell ISE (x86)"
+  },
+  "windows powershell ise": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+    "display": "Windows PowerShell ISE"
+  },
+  "uninstall xampp": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\Uninstall XAMPP.lnk",
+    "display": "Uninstall XAMPP"
+  },
+  "xampp control panel": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP Control Panel.lnk",
+    "display": "XAMPP Control Panel"
+  },
+  "xampp htdocs folder": {
+    "kind": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP htdocs folder.lnk",
+    "display": "XAMPP htdocs folder"
+  },
+  "azuredatastudio": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Azure Data Studio\\azuredatastudio.exe",
+    "display": "azuredatastudio"
+  },
+  "unins000": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Azure Data Studio\\unins000.exe",
+    "display": "unins000"
+  },
+  "git-bash": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Git\\git-bash.exe",
+    "display": "git-bash"
+  },
+  "git-cmd": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Git\\git-cmd.exe",
+    "display": "git-cmd"
+  },
+  "appcmd": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\IIS Express\\appcmd.exe",
+    "display": "appcmd"
+  },
+  "iisexpress": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\IIS Express\\iisexpress.exe",
+    "display": "iisexpress"
+  },
+  "iisexpressadmincmd": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\IIS Express\\IisExpressAdminCmd.exe",
+    "display": "IisExpressAdminCmd"
+  },
+  "iisexpresstray": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\IIS Express\\iisexpresstray.exe",
+    "display": "iisexpresstray"
+  },
+  "extexport": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Internet Explorer\\ExtExport.exe",
+    "display": "ExtExport"
+  },
+  "iediagcmd": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Internet Explorer\\iediagcmd.exe",
+    "display": "iediagcmd"
+  },
+  "ieinstal": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Internet Explorer\\ieinstal.exe",
+    "display": "ieinstal"
+  },
+  "ielowutil": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Internet Explorer\\ielowutil.exe",
+    "display": "ielowutil"
+  },
+  "iexplore": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+    "display": "iexplore"
+  },
+  "mcinst": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\McAfeeDashboard\\McInst.exe",
+    "display": "McInst"
+  },
+  "mcsecdashboardservice": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\McAfeeDashboard\\McSecDashboardService.exe",
+    "display": "McSecDashboardService"
+  },
+  "onedrive.app": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.App.exe",
+    "display": "OneDrive.App"
+  },
+  "onedrivestandaloneupdater": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Microsoft OneDrive\\OneDriveStandaloneUpdater.exe",
+    "display": "OneDriveStandaloneUpdater"
+  },
+  "expediteupdater": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Microsoft Update Health Tools\\expediteupdater.exe",
+    "display": "expediteupdater"
+  },
+  "uhssvc": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Microsoft Update Health Tools\\uhssvc.exe",
+    "display": "uhssvc"
+  },
+  "python": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Python311\\python.exe",
+    "display": "python"
+  },
+  "pythonw": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Python311\\pythonw.exe",
+    "display": "pythonw"
+  },
+  "configsecuritypolicy": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\ConfigSecurityPolicy.exe",
+    "display": "ConfigSecurityPolicy"
+  },
+  "dlpuseragent": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\DlpUserAgent.exe",
+    "display": "DlpUserAgent"
+  },
+  "mpcmdrun": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "display": "MpCmdRun"
+  },
+  "mpcopyaccelerator": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MpCopyAccelerator.exe",
+    "display": "MpCopyAccelerator"
+  },
+  "mpdefendercoreservice": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MpDefenderCoreService.exe",
+    "display": "MpDefenderCoreService"
+  },
+  "mpdlpcmd": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MpDlpCmd.exe",
+    "display": "MpDlpCmd"
+  },
+  "mpdlpservice": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MpDlpService.exe",
+    "display": "MpDlpService"
+  },
+  "mpextms": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\mpextms.exe",
+    "display": "mpextms"
+  },
+  "msmpeng": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\MsMpEng.exe",
+    "display": "MsMpEng"
+  },
+  "nissrv": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Defender\\NisSrv.exe",
+    "display": "NisSrv"
+  },
+  "wab": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Mail\\wab.exe",
+    "display": "wab"
+  },
+  "wabmig": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Mail\\wabmig.exe",
+    "display": "wabmig"
+  },
+  "setup_wm": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\setup_wm.exe",
+    "display": "setup_wm"
+  },
+  "wmlaunch": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmlaunch.exe",
+    "display": "wmlaunch"
+  },
+  "wmpconfig": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpconfig.exe",
+    "display": "wmpconfig"
+  },
+  "wmplayer": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmplayer.exe",
+    "display": "wmplayer"
+  },
+  "wmpnetwk": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpnetwk.exe",
+    "display": "wmpnetwk"
+  },
+  "wmpnscfg": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpnscfg.exe",
+    "display": "wmpnscfg"
+  },
+  "wmprph": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmprph.exe",
+    "display": "wmprph"
+  },
+  "wmpshare": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Media Player\\wmpshare.exe",
+    "display": "wmpshare"
+  },
+  "imagingdevices": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\Windows Photo Viewer\\ImagingDevices.exe",
+    "display": "ImagingDevices"
+  },
+  "msal.wsl.proxy": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\msal.wsl.proxy.exe",
+    "display": "msal.wsl.proxy"
+  },
+  "msrdc": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\msrdc.exe",
+    "display": "msrdc"
+  },
+  "wslg": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\wslg.exe",
+    "display": "wslg"
+  },
+  "wslhost": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\wslhost.exe",
+    "display": "wslhost"
+  },
+  "wslrelay": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\wslrelay.exe",
+    "display": "wslrelay"
+  },
+  "wslservice": {
+    "kind": "exe",
+    "path": "C:\\Program Files\\WSL\\wslservice.exe",
+    "display": "wslservice"
+  },
+  "db browser for sqlcipher": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\DB Browser for SQLite\\DB Browser for SQLCipher.exe",
+    "display": "DB Browser for SQLCipher"
+  },
+  "db browser for sqlite": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\DB Browser for SQLite\\DB Browser for SQLite.exe",
+    "display": "DB Browser for SQLite"
+  },
+  "dosbox": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\DOSBox-0.74-3\\DOSBox.exe",
+    "display": "DOSBox"
+  },
+  "hhc": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\HTML Help Workshop\\hhc.exe",
+    "display": "hhc"
+  },
+  "sllauncher": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\Microsoft Silverlight\\sllauncher.exe",
+    "display": "sllauncher"
+  },
+  "getuserprofilepath": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\Remote Mouse\\GetUserProfilePath.exe",
+    "display": "GetUserProfilePath"
+  },
+  "remotemouse": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\Remote Mouse\\RemoteMouse.exe",
+    "display": "RemoteMouse"
+  },
+  "remotemousecore": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\Remote Mouse\\RemoteMouseCore.exe",
+    "display": "RemoteMouseCore"
+  },
+  "remotemouseservice": {
+    "kind": "exe",
+    "path": "C:\\Program Files (x86)\\Remote Mouse\\RemoteMouseService.exe",
+    "display": "RemoteMouseService"
+  },
+  "installer": {
+    "kind": "exe",
+    "path": "C:\\Users\\Lenovo\\AppData\\Local\\canva-updater\\installer.exe",
+    "display": "installer"
+  },
+  "gk": {
+    "kind": "exe",
+    "path": "C:\\Users\\Lenovo\\AppData\\Local\\GitKrakenCLI\\gk.exe",
+    "display": "gk"
+  },
+  "alexa": {
+    "kind": "uwp",
+    "appid": "57540AMZNMobileLLC.AmazonAlexa_22t9g3sebte08!App",
+    "display": "Alexa"
+  },
+  "bitnami for xampp": {
+    "kind": "uwp",
+    "appid": "https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller",
+    "display": "Bitnami for XAMPP"
+  },
+  "calculator": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App",
+    "display": "Calculator"
+  },
+  "calendar": {
+    "kind": "uwp",
+    "appid": "microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar",
+    "display": "Calendar"
+  },
+  "camera": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsCamera_8wekyb3d8bbwe!App",
+    "display": "Camera"
+  },
+  "chatgpt": {
+    "kind": "uwp",
+    "appid": "OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0!ChatGPT",
+    "display": "ChatGPT"
+  },
+  "click to do": {
+    "kind": "uwp",
+    "appid": "MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy!ClickToDoApp",
+    "display": "Click to Do"
+  },
+  "clock": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App",
+    "display": "Clock"
+  },
+  "copilot": {
+    "kind": "uwp",
+    "appid": "Microsoft.Copilot_8wekyb3d8bbwe!App",
+    "display": "Copilot"
+  },
+  "defragment and optimize drives": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\dfrgui.exe",
+    "display": "Defragment and Optimize Drives"
+  },
+  "dolby audio": {
+    "kind": "uwp",
+    "appid": "DolbyLaboratories.DolbyAudio_rz1tebttyb220!App",
+    "display": "Dolby Audio"
+  },
+  "draw.io diagrams": {
+    "kind": "uwp",
+    "appid": "draw.io.draw.ioDiagrams_1zh33159kp73c!draw.io.draw.ioDiagrams",
+    "display": "draw.io Diagrams"
+  },
+  "family": {
+    "kind": "uwp",
+    "appid": "MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe!App",
+    "display": "Family"
+  },
+  "feedback hub": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App",
+    "display": "Feedback Hub"
+  },
+  "films & tv": {
+    "kind": "uwp",
+    "appid": "Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo",
+    "display": "Films & TV"
+  },
+  "game bar": {
+    "kind": "uwp",
+    "appid": "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App",
+    "display": "Game Bar"
+  },
+  "get help": {
+    "kind": "uwp",
+    "appid": "Microsoft.GetHelp_8wekyb3d8bbwe!App",
+    "display": "Get Help"
+  },
+  "git faqs (frequently asked questions)": {
+    "kind": "uwp",
+    "appid": "https://gitforwindows.org/faq",
+    "display": "Git FAQs (Frequently Asked Questions)"
+  },
+  "instagram": {
+    "kind": "uwp",
+    "appid": "Facebook.InstagramBeta_8xx8rvfyw5nnt!App",
+    "display": "Instagram"
+  },
+  "intelr graphics command center": {
+    "kind": "uwp",
+    "appid": "AppUp.IntelGraphicsExperience_8j3eq9eme6ctt!App",
+    "display": "Intelr Graphics Command Center"
+  },
+  "lenovo hotkeys": {
+    "kind": "uwp",
+    "appid": "E0469640.LenovoUtility_5grkq8ppsgwt4!LenovoUtility",
+    "display": "Lenovo Hotkeys"
+  },
+  "lenovo vantage": {
+    "kind": "uwp",
+    "appid": "E046963F.LenovoCompanion_k1h2ywk1493x8!App",
+    "display": "Lenovo Vantage"
+  },
+  "live captions": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\LiveCaptions.exe",
+    "display": "Live captions"
+  },
+  "magnifier": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\magnify.exe",
+    "display": "Magnifier"
+  },
+  "mail": {
+    "kind": "uwp",
+    "appid": "microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail",
+    "display": "Mail"
+  },
+  "maps": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsMaps_8wekyb3d8bbwe!App",
+    "display": "Maps"
+  },
+  "media player": {
+    "kind": "uwp",
+    "appid": "Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic",
+    "display": "Media Player"
+  },
+  "microsoft 365 copilot": {
+    "kind": "uwp",
+    "appid": "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub",
+    "display": "Microsoft 365 Copilot"
+  },
+  "microsoft clipchamp": {
+    "kind": "uwp",
+    "appid": "Clipchamp.Clipchamp_yxz26nhyzhsrt!App",
+    "display": "Microsoft Clipchamp"
+  },
+  "microsoft store": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsStore_8wekyb3d8bbwe!App",
+    "display": "Microsoft Store"
+  },
+  "microsoft teams": {
+    "kind": "uwp",
+    "appid": "MSTeams_8wekyb3d8bbwe!MSTeams",
+    "display": "Microsoft Teams"
+  },
+  "microsoft to do": {
+    "kind": "uwp",
+    "appid": "Microsoft.Todos_8wekyb3d8bbwe!App",
+    "display": "Microsoft To Do"
+  },
+  "microsoft whiteboard": {
+    "kind": "uwp",
+    "appid": "Microsoft.Whiteboard_8wekyb3d8bbwe!Whiteboard",
+    "display": "Microsoft Whiteboard"
+  },
+  "mingw installation manager": {
+    "kind": "uwp",
+    "appid": "C:\\MinGW\\libexec\\mingw-get\\guimain.exe",
+    "display": "MinGW Installation Manager"
+  },
+  "mixed reality portal": {
+    "kind": "uwp",
+    "appid": "Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App",
+    "display": "Mixed Reality Portal"
+  },
+  "news": {
+    "kind": "uwp",
+    "appid": "Microsoft.BingNews_8wekyb3d8bbwe!AppexNews",
+    "display": "News"
+  },
+  "notepad": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App",
+    "display": "Notepad"
+  },
+  "open vs2012 x64 native tools command prompt": {
+    "kind": "uwp",
+    "appid": "Microsoft.AutoGenerated.{02E68D2C-4D58-89E0-E0C5-D74A6DE35661}",
+    "display": "Open VS2012 x64 Native Tools Command Prompt"
+  },
+  "outlook (new)": {
+    "kind": "uwp",
+    "appid": "Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows",
+    "display": "Outlook (new)"
+  },
+  "paint": {
+    "kind": "uwp",
+    "appid": "Microsoft.Paint_8wekyb3d8bbwe!App",
+    "display": "Paint"
+  },
+  "phone link": {
+    "kind": "uwp",
+    "appid": "Microsoft.YourPhone_8wekyb3d8bbwe!App",
+    "display": "Phone Link"
+  },
+  "photos": {
+    "kind": "uwp",
+    "appid": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App",
+    "display": "Photos"
+  },
+  "power automate": {
+    "kind": "uwp",
+    "appid": "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe!PAD.Console",
+    "display": "Power Automate"
+  },
+  "quick assist": {
+    "kind": "uwp",
+    "appid": "MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe!App",
+    "display": "Quick Assist"
+  },
+  "realtek audio console": {
+    "kind": "uwp",
+    "appid": "RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App",
+    "display": "Realtek Audio Console"
+  },
+  "recovery drive": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\RecoveryDrive.exe",
+    "display": "Recovery Drive"
+  },
+  "reference documentation": {
+    "kind": "uwp",
+    "appid": "http://docs.oracle.com/javase/16/index.html",
+    "display": "Reference Documentation"
+  },
+  "settings": {
+    "kind": "uwp",
+    "appid": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel",
+    "display": "Settings"
+  },
+  "smart microphone settings": {
+    "kind": "uwp",
+    "appid": "4505Fortemedia.FMAPOControl_4pejv7q2gmsnr!App",
+    "display": "Smart Microphone Settings"
+  },
+  "snipping tool": {
+    "kind": "uwp",
+    "appid": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App",
+    "display": "Snipping Tool"
+  },
+  "solitaire & casual games": {
+    "kind": "uwp",
+    "appid": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App",
+    "display": "Solitaire & Casual Games"
+  },
+  "sound recorder": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App",
+    "display": "Sound Recorder"
+  },
+  "spotify": {
+    "kind": "uwp",
+    "appid": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
+    "display": "Spotify"
+  },
+  "sticky notes": {
+    "kind": "uwp",
+    "appid": "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App",
+    "display": "Sticky Notes"
+  },
+  "telegram desktop": {
+    "kind": "uwp",
+    "appid": "TelegramMessengerLLP.TelegramDesktop_t4vj0pshhgkwm!Telegram.TelegramDesktop.Store",
+    "display": "Telegram Desktop"
+  },
+  "windows terminal": {
+    "kind": "uwp",
+    "appid": "Microsoft.WindowsTerminal_8wekyb3d8bbwe!App",
+    "display": "Terminal"
+  },
+  "voice access": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\voiceaccess.exe",
+    "display": "Voice access"
+  },
+  "weather": {
+    "kind": "uwp",
+    "appid": "Microsoft.BingWeather_8wekyb3d8bbwe!App",
+    "display": "Weather"
+  },
+  "whatsapp": {
+    "kind": "uwp",
+    "appid": "5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
+    "display": "WhatsApp"
+  },
+  "windows backup": {
+    "kind": "uwp",
+    "appid": "MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WindowsBackup",
+    "display": "Windows Backup"
+  },
+  "windows memory diagnostic": {
+    "kind": "uwp",
+    "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\MdSched.exe",
+    "display": "Windows Memory Diagnostic"
+  },
+  "windows security": {
+    "kind": "uwp",
+    "appid": "Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI",
+    "display": "Windows Security"
+  },
+  "windows tools": {
+    "kind": "uwp",
+    "appid": "Microsoft.Windows.AdministrativeTools",
+    "display": "Windows Tools"
+  },
+  "xbox": {
+    "kind": "uwp",
+    "appid": "Microsoft.GamingApp_8wekyb3d8bbwe!Microsoft.Xbox.App",
+    "display": "Xbox"
+  }
+}
